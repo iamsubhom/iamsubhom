@@ -26,12 +26,12 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhom_Ghosal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/subhom-ghosal/)
-[![GitHub](https://img.shields.io/badge/GitHub-SubhomGhosal-black?style=flat-square&logo=github)](https://github.com/SubhomGhosal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhom_Ghosal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsubhom/)
+[![GitHub](https://img.shields.io/badge/GitHub-SubhomGhosal-black?style=flat-square&logo=github)](https://github.com/iamsubhom)
 
 ## 📊 GitHub Stats
 
-![Subhom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhomGhosal&show_icons=true&count_private=true&hide=contribs)
+![Subhom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsubhom&show_icons=true&count_private=true&hide=contribs)
 
 ## 📝 Let's Connect!
 
