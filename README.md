@@ -9,7 +9,7 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 - **Machine Learning:** Regression, Classification, Clustering
 - **Database:** SQL
 - **Tools:** Jupyter Notebooks, Git, GitHub
-- **Agile Methodologies:** Scrum
+- **Web Development:** HTML, CSS
 
 ## 🎓 Education
 
@@ -28,6 +28,8 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhom_Ghosal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsubhom/)
 [![GitHub](https://img.shields.io/badge/GitHub-SubhomGhosal-black?style=flat-square&logo=github)](https://github.com/iamsubhom)
+[![Email](https://img.shields.io/badge/Email-officialsubhom%40gmail.com-green?style=flat-square&logo=gmail)](mailto:officialsubhom@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-iamsubhom-blue?style=flat-square&logo=facebook)](https://www.facebook.com/iamsubhom)
 
 ## 📊 GitHub Stats
 
