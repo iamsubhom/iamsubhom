@@ -4,12 +4,25 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 
 ## 🚀 Skills
 
-- **Programming Languages:** Python
-- **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Machine Learning:** Regression, Classification, Clustering
-- **Database:** SQL
-- **Tools:** Jupyter Notebooks, Git, GitHub
-- **Web Development:** HTML, CSS
+**Programming Languages:** Python, R
+- **Database:** MySQL
+- **Web Development:** HTML, CSS, PHP, Ionic, Codeigniter
+- **Machine Learning:** Statistical Analysis, Data Manipulation, Data Analysis, Data Visualization, Data Cleaning
+- **Database Management:** MySQL
+- **Regression Analysis:** Linear Regression
+- **Clustering:** K-Means, Hierarchical Clustering
+- **Decision Trees:** ID3, C4.5
+- **SVM (Support Vector Machines)**
+- **Deep Learning:** TensorFlow, PyTorch
+- **Cloud Platforms:** AWS
+- **Cloud Data Manipulation:** AWS Glue
+- **Data Manipulation Libraries:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+- **Critical Thinking, Analytical Thinking, Problem Solving**
+- **Automation and Monitoring**
+- **Project Management**
+- **Communication, Leadership, Time Management, Adaptability**
+- **Teamwork, Creativity**
 
 ## 🎓 Education
 
@@ -24,13 +37,21 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 - Deepening my understanding of Neural Networks
 - Exploring Natural Language Processing (NLP)
 
+
 ## 🏆 Certificates
 
-- **Data Science Certification**
-  - StarAgile, 2022
 
-- **AWS Certified Developer – Associate**
-  - AWS, 2023
+- **Data Science Certification (StarAgile)**
+  - [View credentials](#)
+
+- **Python for Data Science (IBM)**
+  - [View credentials](#)
+
+- **AWS Solutions Architect (StarAgile)**
+  - [View credentials](#)
+
+- **Android & IOS Development (Expro Institute of Technology & Management)**
+  - [View credentials](#)
 
 ## 💼 Projects
 
