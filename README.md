@@ -24,6 +24,25 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 - Deepening my understanding of Neural Networks
 - Exploring Natural Language Processing (NLP)
 
+## 🏆 Certificates
+
+- **Data Science Certification**
+  - StarAgile, 2022
+
+- **AWS Certified Developer – Associate**
+  - AWS, 2023
+
+## 💼 Projects
+
+1. **Sentiment Analysis Web App**
+   - Developed a Flask web app for sentiment analysis using natural language processing techniques.
+
+2. **E-commerce Recommendation System**
+   - Built a recommendation system using collaborative filtering for an e-commerce platform.
+
+3. **Expense Tracker App**
+   - Created a full-stack expense tracker app using MERN stack (MongoDB, Express, React, Node.js).
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhom_Ghosal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsubhom/)
