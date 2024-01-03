@@ -55,12 +55,13 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
 
 ## 💼 Projects
 
-1. Youtuber Image Classification Project	                              View in GitHub
- ●	Collected dataset images from google image then ran the OpenCV framework code to filter the images
+1. Youtuber Image Classification Project	                     [Project Repository]([https://github.com/yourusername/your-repo](https://github.com/iamsubhom/Top-Indian-Youtuber-Image-Classification))
+
+ -	Collected dataset images from google image then ran the OpenCV framework code to filter the images
     having eyes are visible or not then saved the cropped face images for model training.
- ●	Trained the model with the best model with highest accuracy score with the help of GridSearchCV and save the model file.
- ●	Build PyCharm backend server with the trained model.
- ●	Finished the project after build the user interface with HTML, CSS, JS then connected with backend server. 
+ -	Trained the model with the best model with highest accuracy score with the help of GridSearchCV and save the model file.
+ -	Build PyCharm backend server with the trained model.
+ -	Finished the project after build the user interface with HTML, CSS, JS then connected with backend server. 
 
 
 2. **E-commerce Recommendation System**
