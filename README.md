@@ -63,7 +63,7 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
   -	Finished the project after build the user interface with HTML, CSS, JS then connected with backend server. 
 
 
-2. [**Financial Analysis Dashboard**](https://github.com/iamsubhom/Financial_Analysis_Dashboard_)
+2. [*Financial Analysis Dashboard*](https://github.com/iamsubhom/Financial_Analysis_Dashboard_)
    - 
 
 3. **Expense Tracker App**
