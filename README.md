@@ -63,8 +63,8 @@ I'm a passionate Data Science enthusiast and a BCA graduate from North East Fron
   -	Finished the project after build the user interface with HTML, CSS, JS then connected with backend server. 
 
 
-2. **E-commerce Recommendation System**
-   - Built a recommendation system using collaborative filtering for an e-commerce platform.
+2. [**Financial Analysis Dashboard**]((https://github.com/iamsubhom/Financial_Analysis_Dashboard_))
+   - 
 
 3. **Expense Tracker App**
    - Created a full-stack expense tracker app using MERN stack (MongoDB, Express, React, Node.js).
